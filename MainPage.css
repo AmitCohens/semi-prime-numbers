@@ -1,0 +1,73 @@
+#C_D{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    text-align: center;
+}
+#A_B_C_D{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+#part_A{
+    height: 45px;
+    border: solid 2px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: antiquewhite;
+    font-size: 40px;
+}
+#part_C{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 250px;
+    width: 32%;
+    border: solid 2px;
+    padding-top: 250px;
+    background-color: antiquewhite;
+}
+#part_D{
+    height: 380px;
+    width: 65%;
+    border: solid 2px;
+    padding-top: 120px;
+    padding-left: 300px;
+    background-color: antiquewhite;
+}
+#part_B{
+    height: 45px;
+    border: solid 2px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: antiquewhite;
+}
+.links{
+    border: none;
+    background: none;
+    font-size: 22px;
+    font-family: David, serif;
+}
+.links a{
+    transform: translateY(5px);
+    text-decoration: none;
+    color: blue;
+}
+#txt{
+    width: 150px;
+    height: 30px;
+}
+#part_E{
+    text-align: center;
+    padding-top: 20%;
+    background-color: antiquewhite;
+}
+#table_numbers{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, serif;
+}
+body{
+    background-color: black;
+}
